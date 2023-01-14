@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **html and css**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **snehashisdasgupta4official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
