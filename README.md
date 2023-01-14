@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@snehashis24" target="blank"><img src="https://img.shields.io/twitter/follow/snehashisdasgupta?logo=twitter&style=for-the-badge" alt="snehashisdasgupta" /></a> </p>
 
-- 🌱 I’m currently learning **html and css**
 
 - 📫 How to reach me **snehashisdasgupta4official@gmail.com**
 
