@@ -1,4 +1,4 @@
-<img width="100%" alt="Hello_World" src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67">
+<img width="100%" alt="Hello_World" 
 <h1 align="center">Hi 👋, I'm Snehashis Dasgupta</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
