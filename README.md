@@ -1,4 +1,4 @@
-<img width="100%" alt="Hello_World" 
+
 <h1 align="center">Hi 👋, I'm Snehashis Dasgupta</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
