@@ -1,5 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Snehashis Dasgupta</h1>
+<p>👋 Hello there! I'm a dedicated B.Tech Computer Science student with a passion for code and a strong command of Java programming. My journey in technology is driven by the excitement of embracing new innovations. I bring proven skills in Java development and now learning MERN stack. </p>
+
+<p>🚀 Committed to continuous learning, I thrive on staying abreast of emerging technologies to tackle real-world challenges. My GitHub is a space where I showcase my projects, share insights, and contribute to the ever-evolving world of software development.</p>
+
+<p>🌐 Let's connect and explore the fascinating realm of technology together! Feel free to dive into my repositories, share ideas, or collaborate on exciting projects. Happy coding!</p>
+
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
