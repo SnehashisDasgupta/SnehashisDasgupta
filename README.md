@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashisdasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="snehashisdasgupta" /> </p>
 
-- 🔭 I’m currently working on [Thread App](https://github.com/SnehashisDasgupta/Threads-lite-App)
 - 👨‍💻 All of my projects are available at [https://github.com/SnehashisDasgupta?tab=repositories](https://github.com/SnehashisDasgupta?tab=repositories)
 
 - 📫 How to reach me **snehashisdasgupta4official@gmail.com**
